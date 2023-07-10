@@ -8,3 +8,4 @@ git add text/(PPP)
 mkdir images
 cd images
 git add
+git status
